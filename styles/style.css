@@ -1,3 +1,34 @@
-.stuff {
-    color: green;
-};
+.header {
+    background-color: lightskyblue;
+    padding: 2rem 1rem;
+    border: 0px solid springgreen;
+    border-width: 6px 0;
+    margin-bottom: 2rem;
+}
+
+.content-section {
+    border: 3px solid black;
+    padding: 1rem 1.2rem;
+}
+
+.first-section {
+    background-color: coral;
+}
+
+.middle-section {
+    margin: 0 1rem;
+    background-color: lightyellow;
+}
+
+.last-section {
+    background-color: honeydew;
+}
+
+.highlight {
+    background-color: greenyellow;
+}
+
+.shhh-secret {
+    display: flex;
+    justify-content: center;
+}
